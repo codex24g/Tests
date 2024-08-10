@@ -1,7 +1,6 @@
 from flask import Flask, request, jsonify, render_template
 import numpy as np
 import tensorflow as tf
-import cv2
 import json
 from PIL import Image
 import io
